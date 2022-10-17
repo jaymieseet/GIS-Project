@@ -3,7 +3,7 @@ title: "Overview"
 editor: visual
 ---
 
-## Overview
+## Introduction
 
 In this project, we are given 2 major themes and subthemes. Detail description of this project is available on this [page](https://jaymieseet-gisproject.netlify.app/). Land cover classification is a commonly used application area of digital image analysis.
 
